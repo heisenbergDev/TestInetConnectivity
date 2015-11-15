@@ -37,13 +37,4 @@ public class TestInetConnectivity {
 			es.mvd.utils.FileUtils.writeFile(outFileNameIP, outputLines);
 		}
 	}
-
-
-
-
-
-
-
-
-
 }
